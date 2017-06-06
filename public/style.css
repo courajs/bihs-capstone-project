@@ -1,0 +1,55 @@
+
+#help{
+   width: 100;
+    float: right;
+  height: 30px; 
+  width: 30px;
+}
+
+#questionMark{
+  position: relative;
+  left: -8px;
+  height: 30px;
+  width: 30px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+#fourthBox{
+  padding: 10px;
+  border: 10px solid red;
+  width: 90%;
+  height: 400px;
+  background: url(http://quotesideas.com/wp-content/uploads/2015/02/Awesome-Funny-Minion-Wallpaper-HD-Image.jpg);
+background-size: 1200px 450px;
+}
+
+#minion{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left:  40%;
+  top: 450px;
+  
+}
+.banana{
+ height: 50px;
+  width: 50px;
+  position: absolute;
+}
+
+#banana2 {
+  left: 70%;
+}
+
+.bomb{
+ height: 50px;
+  width: 50px;
+  position: absolute;
+}
